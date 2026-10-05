@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791147931|2171221';
+const CACHE_VERSION = '1791190414|3174859';
 /** @type {string} */
 const CACHE_PREFIX = 'Farm Quiz Game (-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
